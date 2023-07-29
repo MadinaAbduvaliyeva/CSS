@@ -1,0 +1,27 @@
+body{
+    background-color: skyblue;
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color: white;
+}
+.navbar-menu{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.navbar-item{
+    display: inline-block;
+    padding: 25px 10px;
+}
+a{
+    color: grey;
+    text-decoration: none;
+}
+.navbar-menu4{
+    display: block;
+}
+.navbar-menu-navbar-item{
+    display: block;
+}
